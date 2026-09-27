@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "carousels": {
+      "type": "http",
+      "url": "https://api.carouse.ls/api/mcp"
+    }
+  }
+}
