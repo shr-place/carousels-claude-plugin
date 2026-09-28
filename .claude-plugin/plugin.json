@@ -1,10 +1,15 @@
 {
   "name": "carousels",
   "displayName": "carouse.ls",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Design editable carousels, photo stories and animated explainers with carouse.ls. Compare three story directions, refine a selected passage, and export your design.",
   "author": { "name": "Shareplace LLC", "url": "https://carouse.ls" },
   "homepage": "https://carouse.ls/claude",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://carouse.ls/privacy",
+  "supportUrl": "https://carouse.ls/support",
+  "documentationUrl": "https://carouse.ls/claude",
+  "termsOfServiceUrl": "https://carouse.ls/terms",
   "repository": "https://github.com/shr-place/carousels-claude-plugin",
   "license": "Apache-2.0"
 }
